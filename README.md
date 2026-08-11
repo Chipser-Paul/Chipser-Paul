@@ -119,7 +119,7 @@ Long-term, I aspire to work in the UK tech industry before founding my own techn
 📧 Email: chipseremmanuel@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/fokoua-emmanuel-402559307
+https://www.linkedin.com/in/fokoua-paul-emmanuel-402559307
 
 🌍 GitHub:
 https://github.com/Chipser-Paul
